@@ -1,0 +1,13 @@
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\bin\Debug\mydb.accdb
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\bin\Debug\NewsletterBlaster.exe.config
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\bin\Debug\NewsletterBlaster.exe
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\bin\Debug\NewsletterBlaster.pdb
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\obj\Debug\NewsletterBlaster.EmailFrame.resources
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\obj\Debug\NewsletterBlaster.Form1.resources
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\obj\Debug\NewsletterBlaster.mainForm.resources
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\obj\Debug\NewsletterBlaster.Properties.Resources.resources
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\obj\Debug\NewsletterBlaster.csproj.GenerateResource.Cache
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\obj\Debug\NewsletterBlaster.exe
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\obj\Debug\NewsletterBlaster.pdb
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\obj\Debug\NewsletterBlaster.csprojResolveAssemblyReference.cache
+D:\3rd SEMESTER\Project\new\NewsletterBlaster\NewsletterBlaster\obj\Debug\NewsletterBlaster.Welcome.resources
